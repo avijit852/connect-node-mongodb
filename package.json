@@ -1,0 +1,28 @@
+{
+  "name": "10.0325",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avijit852/connect-node-mongodb.git"
+  },
+  "author": "avijit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avijit852/connect-node-mongodb/issues"
+  },
+  "homepage": "https://github.com/avijit852/connect-node-mongodb#readme"
+}
